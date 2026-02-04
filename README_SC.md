@@ -1,12 +1,12 @@
-语言选项 / Language Option：
+Language Option:
 
-中文 | [English](README.md)
+[中文](README_SC.md) | English
 
 ---
 
-# Wingmon - 更优雅的浏览体验
+<img src="https://raw.githubusercontent.com/DamoyY/Wingmon-Release/refs/heads/main/logo_with_border.png" width="100">
 
-![Wingmon](logo.png)
+# Wingmon - More Elegant Browsing Experience
 
 Wingmon 是一款浏览器侧边栏扩展，旨在将大语言模型深度集成到浏览体验中。
 与其它产品不同，Wingmon 是一个能够访问网页甚至操作浏览器的完整 Agent，而非一个简单的聊天窗口。
