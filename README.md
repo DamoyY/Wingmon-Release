@@ -4,9 +4,9 @@ Language Option:
 
 ---
 
-# Wingmon - More Elegant Browsing Experience
+<img src="https://raw.githubusercontent.com/DamoyY/Wingmon-Release/refs/heads/main/logo_with_border.png" width="100">
 
-![Wingmon](logo.png)
+# Wingmon - More Elegant Browsing Experience
 
 Wingmon is a browser sidebar extension designed to deeply integrate Large Language Models into the browsing experience.
 Unlike other products, Wingmon is a complete Agent capable of accessing web pages and even operating the browser, rather than just a simple chat window.
